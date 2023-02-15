@@ -9,7 +9,7 @@ Summer 2022 - University of Tehran
 
 documentation of the project can be found in the "report" folder.
 
-In this project cnn and lstm models are used to detect the keywords.
+In this project cnn and lstm models have been used to detect the keywords.
 
 MFCC features are extracted from the input audio and used as network's input.
  
