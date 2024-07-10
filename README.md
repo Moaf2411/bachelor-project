@@ -7,7 +7,6 @@ Supervisor: Dr. Zahra Movahedi
 
 Summer 2022 - University of Tehran
 
-documentation of the project can be found in the "report" folder.
 
 In this project cnn and lstm models have been used to detect the keywords.
 
