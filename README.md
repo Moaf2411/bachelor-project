@@ -1,7 +1,7 @@
 # Bachelor Project
 Implementation of a Persian Speech Recognition System (keyword detection) using Deep Learning methods
 
-Contributer: Mohammadreza Afshari
+Contributor: Mohammadreza Afshari
 
 Supervisor: Dr. Zahra Movahedi
 
